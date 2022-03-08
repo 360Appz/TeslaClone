@@ -1,10 +1,11 @@
 # To Do List
 
-This project is based on a tutorial which I have used to learn about React Native. It aims to emulate the Tesla website in terms of UI.
+This project is based on a tutorial which I have used to learn about React Native. It aims to emulate the Tesla website in terms of the user interface.
 
 # Demo
 
- ![](https://github.com/360Appz/todolist/blob/main/demoPhoto/2.PNG){ padding-top:10px }
+ https://360appz.github.io/DeployReact/ 
+ (Open in mobile for better experience, as UI is designed for mobile)
 
 # Technologies
 * React Native
