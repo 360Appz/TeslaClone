@@ -6,7 +6,11 @@ import styles from "./styles";
 const StyledButton = (props) =>
 {
 
-    const type = props.type;
+
+     //Allows element to use properties instead of hardcoding into individual UI elements.
+     //Syntax is based on ES6 to make succint code
+    const {type, content, onPress} = props;
+
 
     //Changes color based on value passes, dynamic styling
     const backgroundColor = type === "primary" ? "black" : "white";
@@ -15,9 +19,9 @@ const StyledButton = (props) =>
         <View style={styles.container}>
             
             <Pressable style={[styles.button, {backgroundColor:backgroundColor}]} onPress={() => {
-                console.warn("Hello there")
+                onPress()
             }}>
-                <Text style={[styles.text,{color:textColor}]}>Custom order</Text>
+                <Text style={[styles.text,{color:textColor}]}>{content}</Text>
 
             </Pressable>
       
