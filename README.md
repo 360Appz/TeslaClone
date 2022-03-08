@@ -1,4 +1,4 @@
-# Tesla UI Render
+# Tesla UI Clone
 
 This project is based on a tutorial which I have used to learn about React Native. It aims to emulate the Tesla website in terms of the user interface.
 
