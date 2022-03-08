@@ -4,7 +4,7 @@ This project is based on a tutorial which I have used to learn about React Nativ
 
 # Demo
 
- https://360appz.github.io/DeployReact/ <nbsp>
+ * https://360appz.github.io/DeployReact/ <nbsp>
  (Open in mobile for better experience, as UI is designed for mobile)
 
 # Technologies
