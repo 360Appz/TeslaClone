@@ -1,11 +1,11 @@
-# To Do List
+# Tesla UI Render
 
 This project is based on a tutorial which I have used to learn about React Native. It aims to emulate the Tesla website in terms of the user interface.
 
 # Demo
-
+(Open in mobile for better experience, as UI is designed for mobile)
  * https://360appz.github.io/DeployReact/ <nbsp>
- (Open in mobile for better experience, as UI is designed for mobile)
+ 
 
 # Technologies
 * React Native
