@@ -14,6 +14,7 @@ This project is based on a tutorial which I have used to learn about React Nativ
 
 # Technical Information
 * npm start/expo start - To run project
+* Uses props/property concept to create extensible components
 
 # Reference
 * https://www.youtube.com/watch?v=iQ_0Fd_N3Mk&list=PLhusV3ueKvurI9PujkrQxMEahYTqDaAFQ&ab_channel=notJust%E2%80%A4dev <nbsp>
